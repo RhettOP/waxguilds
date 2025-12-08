@@ -124,7 +124,10 @@ None in the reporting period.
 **Description**: Assisting the technical community in Telegram chats: WAX Developers, Antelope Developers, WAX Infra discussion
 
 **Update**: 
-Continuous community support.
+As Spring software has changed its license to MIT, here's the first Spring Community Release 1.3.0:
+https://github.com/eos-amsterdam-rnd/antelope_spring_ce
+Also, the first WAX Spring Community Release 1.3.0wax01:
+https://github.com/eos-amsterdam-rnd/wax-spring-ce
 
 ---
 
@@ -146,9 +149,18 @@ None in the reporting period.
 **Description**: We are providing a bridge to Dacoco for their token between WAX and the Binance chain, as well as between WAX and Ethereum.
 
 **Update**: 
-None in the reporting period.
+A new 3-year contract with Dacoco is in the works.
 
 ---
+
+### Standard Antilope CDT
+
+**URLs**: https://github.com/eos-amsterdam-rnd/wax-cdt
+
+**Description**:  It imports the RSA validation intrinsic into the Antelope CDT
+
+**Update**: 
+Release 4.1.1wax01 of CDT is now available
 
 
 ### <ins>Backups </ins>
