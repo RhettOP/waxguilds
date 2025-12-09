@@ -16,12 +16,12 @@ All listed services are being hosted and maintained as usual, with updated usage
 
 ### <ins>API Services</ins>
 
-| History (partial) | History (full) | History (testnet) | AA API | Light-API  | IPFS |
+| History (partial) | History (testnet) | AA API | Light-API  | IPFS |
 |--------|--------|--------|--------|--------|--------|
 | [] | [X] | [x] | [x] | [x] | [] |  [] |
-| - | 8.5k req/hour | 81 req/hour | 24.9k req/hour | 60.8k req/hour | - |
+| - | ??k req/hour | ?? req/hour | ??k req/hour | ??k req/hour | - |
 
-Others APIs: WAX RPC (272k req/hour), WAX Testnet RPC (15k req/hour)
+Others APIs: WAX RPC (??k req/hour), WAX Testnet RPC (??k req/hour)
 
 
 ### <ins>Contributions</ins>
@@ -110,7 +110,7 @@ None in the reporting period.
 
 **URLs**: [https://binfra.one/](https://binfra.one/)
 
-**Description**: bInfra.one is an infrastucture service for dApps to offer them stronger and more reliable infrastructure.
+**Description**: bInfra.one is an infrastructure service for dApps to offer them stronger and more reliable infrastructure.
 
 **Update**: 
 None in the reporting period.
@@ -153,7 +153,7 @@ A new 3-year contract with Dacoco is in the works.
 
 ---
 
-### Standard Antilope CDT
+### WAX CDT
 
 **URLs**: https://github.com/eos-amsterdam-rnd/wax-cdt
 
@@ -161,18 +161,6 @@ A new 3-year contract with Dacoco is in the works.
 
 **Update**: 
 Release 4.1.1wax01 of CDT is now available
-
-
-### <ins>Backups </ins>
-URL: [Snapshots](https://snapshots.eosamsterdam.net/public/wax/)
-
-| Snapshot | Blocks Log | State History | Elastic Search | AA API |
-|--------|--------|--------|--------|--------|
-| [x] | [x] | [x] | [ ] | [X] |
-
-Blocks and state history from 2021-09-26
-Atomic assets from 2022-02-16
-Also, Chronicle data snapshots (latest from 2023-12-06)
 
 
 ### <ins>Feedback to OIG</ins>
