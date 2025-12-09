@@ -95,15 +95,17 @@ None in the reporting period
 
 ---
 
-### Antelope/WAX-leap
+### Antelope/WAX-Spring
 
-**URLs**: [https://github.com/eos-amsterdam-rnd/wax-leap/releases](https://github.com/eos-amsterdam-rnd/wax-leap/releases)
+**URLs**: https://github.com/eos-amsterdam-rnd/wax-spring-ce
 
-**Description**: Continuous support of WAX Leap.
+**Description**: Continuous support of WAX Spring.
 
 **Update**: 
-None in the reporting period.
-
+As Spring software has changed its license to MIT, here's the first Spring Community Release 1.3.0:
+https://github.com/eos-amsterdam-rnd/antelope_spring_ce
+Also, the first WAX Spring Community Release 1.3.0wax01:
+https://github.com/eos-amsterdam-rnd/wax-spring-ce
 ---
 
 ### bInfra.one
@@ -124,10 +126,7 @@ None in the reporting period.
 **Description**: Assisting the technical community in Telegram chats: WAX Developers, Antelope Developers, WAX Infra discussion
 
 **Update**: 
-As Spring software has changed its license to MIT, here's the first Spring Community Release 1.3.0:
-https://github.com/eos-amsterdam-rnd/antelope_spring_ce
-Also, the first WAX Spring Community Release 1.3.0wax01:
-https://github.com/eos-amsterdam-rnd/wax-spring-ce
+Upgrade to Spring
 
 ---
 
