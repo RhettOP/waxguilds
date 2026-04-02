@@ -14,6 +14,8 @@
 ### <ins>Noteworthy</ins>
 All listed services are being hosted and maintained as usual, with updated usage statistics.
 
+**Missed Production Rounds — Hetzner Outage**: During the reporting period, EOS Amsterdam missed production rounds due to an unplanned outage at Hetzner, our primary infrastructure provider. This was beyond our control. We have since restored full node operation and are monitoring production closely. Steps are being taken to improve redundancy to prevent recurrence.
+
 ### <ins>API Services</ins>
 
 | History (partial) | History (testnet) | AA API | Light-API  | IPFS |
@@ -164,6 +166,8 @@ Release 4.1.1wax01 of CDT is now available
 
 ### <ins>Feedback to OIG</ins>
 
-Yannick left EOS Amsterdam after 6,5 years of excellent service. CEO Rhett Oudkerk Pool will take over the reporting
+Yannick left EOS Amsterdam after 6,5 years of excellent service. CEO Rhett Oudkerk Pool will take over the reporting.
+
+Regarding the missed production rounds flagged in the February evaluation: these were caused by an unplanned outage at Hetzner, our primary infrastructure provider. The outage was outside our control. Our nodes are now fully operational and we are actively working on improving redundancy across providers to ensure this does not happen again. We remain committed to maintaining our position as a reliable WAX Guild.
 
 ----
